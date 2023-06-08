@@ -9,5 +9,3 @@
 - 🎯 Interested in **Data Engineering, Blockchain, Community Building, and Competitive Programming**
 - 📫 Reach me: [/in/jihanemajdoul](https://www.linkedin.com/in/jihanemajdoul/) or [twitter.com/jihanemajdoul](https://twitter.com/jihanemajdoul)
 - ⚡ Fun fact: I read so fast, I could finish a trilogy before you finish debugging 😀
-
--->
