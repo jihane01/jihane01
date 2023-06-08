@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###I’m a Data Scientis
+### I’m a Data Scientis
 
 - 🔭 I’m currently a Software Engineer **Intern** at @alxafrica
 - 🌱 I’m currently learning all about **Data/ML/DL/Blockchain/Entrepreneurship**
