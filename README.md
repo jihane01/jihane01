@@ -2,7 +2,7 @@
 
 ### I’m a Data Scientist
 
-- 🔭 I’m currently a Software Engineer **Intern** at @alxafrica
+- 🔭 I’m currently a Software Engineer **Intern** 
 - 🌱 I’m currently learning all about **Data/ML/DL/Blockchain/Entrepreneurship**
 - 👯 I’m looking to collaborate on **Machine learning or Blockchain projects**
 - 🧩 I’m mostly active within the **Google Developer Communities (GDG,GDSC, TFUG, WTM)**
